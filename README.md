@@ -11,7 +11,7 @@ This Power BI project analyzes customer churn behavior in a banking dataset to i
 - Germany shows the highest churn among all regions
 - Customers with low credit scores are high-risk
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 - Target inactive users with engagement campaigns
 - Provide personalized offers to high-risk age groups
