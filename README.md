@@ -6,11 +6,17 @@ This Power BI project analyzes customer churn behavior in a banking dataset to i
 
 ## 📈 Key Insights
 
-* 📌 Total Customers: 10,000
-* 📉 Churn Rate: 20.4%
-* 👥 Higher churn observed among inactive users
-* 💳 Customers without credit cards show different churn patterns
-* 🌍 Country-wise variation in churn (France, Germany, Spain)
+- Inactive customers have a significantly higher churn rate
+- Customers aged 50+ are more likely to leave the bank
+- Germany shows the highest churn among all regions
+- Customers with low credit scores are high-risk
+
+💡 Business Recommendations
+
+- Target inactive users with engagement campaigns
+- Provide personalized offers to high-risk age groups
+- Improve services in high churn regions
+- Monitor low credit score customers closely
 
 ## 📊 Dashboard Features
 
