@@ -28,7 +28,7 @@ This Power BI project analyzes customer churn behavior in a banking dataset to i
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 🚀 How to Use
 
